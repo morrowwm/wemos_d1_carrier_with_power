@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name "wemos_d1_mini")(type "KiCad")(uri "/opt/one/home/bill/src/d1_mini_kicad/library/wemos_d1_mini.pretty")(options "")(descr ""))
+  (lib (name "footprints")(type "KiCad")(uri "/opt/one/home/bill/Downloads/KiCADv6/2023-06-01_12-46-44/footprints.pretty")(options "")(descr ""))
+)

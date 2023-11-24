@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name "wemos_mini")(type "Legacy")(uri "/opt/one/home/bill/src/d1_mini_kicad/library/wemos_mini.lib")(options "")(descr ""))
+  (lib (name "IRLU024N")(type "KiCad")(uri "/opt/one/home/bill/Downloads/KiCADv6/2023-06-01_12-46-44/2023-06-01_12-46-44.kicad_sym")(options "")(descr ""))
+)
